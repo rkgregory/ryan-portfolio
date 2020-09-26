@@ -1,0 +1,47 @@
+.gallery-container {
+  position: relative;
+  min-height: 100vh;
+  text-align: center;
+  margin-top: 4vh;
+}
+
+.blade-img {
+  overflow: hidden;
+  /* width: 500px; */
+  max-height: 500px;
+  max-width: 100%;
+  height: auto;
+  /* width: auto; */
+}
+
+.content-wrapper {
+  padding-top: 1vh;
+  padding-bottom: 5vh;
+}
+
+.blade-text {
+  color: white;
+  font-size: 1rem;
+  width: 100%;
+  margin: auto;
+  padding-bottom: 25px;
+}
+
+.blade-vid {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.dull-blade-header {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.8rem;
+  letter-spacing: 2px;
+}
+
+@media only screen and (min-width: 600px) {
+  .blade-text {
+    width: 85%;
+  }
+}

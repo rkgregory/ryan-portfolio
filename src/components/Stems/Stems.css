@@ -1,0 +1,59 @@
+.stems-img-container {
+  position: fixed;
+  z-index: -1;
+  height: 110%;
+  min-width: 100%;
+  overflow: hidden;
+  left: -400px;
+}
+
+.about-container {
+  position: relative;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.stems-container {
+  padding-top: 40vh;
+}
+
+.stems-text {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  /* height: 50vh; */
+}
+
+.stems-link {
+  outline: 0;
+  text-decoration: none !important;
+}
+
+.stems-text:hover {
+  color: rgb(148, 148, 148);
+  transition: 0.3s;
+}
+
+.content-wrapper {
+  padding-top: 1vh;
+  padding-bottom: 5vh;
+}
+
+@media only screen and (min-width: 600px) {
+  .stems-text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 2.4rem;
+    /* height: 50vh; */
+  }
+  .stems-img-container {
+    position: fixed;
+    z-index: -1;
+    height: 100vh;
+    /* min-width: 100%; */
+    left: 0px;
+    overflow: hidden;
+  }
+}

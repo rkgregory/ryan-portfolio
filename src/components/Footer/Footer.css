@@ -1,0 +1,65 @@
+.footer-container {
+  width: 100% !important;
+  height: 150px;
+  background-color: #1e1e1e;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.footer-wrapper {
+  padding-top: 20px;
+}
+
+.footer-text {
+  color: whitesmoke;
+
+  font-weight: 100;
+  font-size: small;
+  text-align: center;
+}
+
+.footer-links {
+  text-align: right;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: small;
+  margin-bottom: 0 !important;
+  padding: 0 !important;
+}
+
+.footer-links-title {
+  margin: 0;
+}
+
+.footer-company-name {
+  display: inline;
+  color: whitesmoke;
+}
+
+.footer-company-icon {
+  display: inline;
+  width: 20px;
+  margin-right: 5px;
+}
+
+.footer-icons {
+  text-align: center;
+  padding-top: 2vh;
+
+  font-size: xx-large;
+}
+
+.footer-icon {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: whitesmoke;
+
+  padding-bottom: 10px;
+}
+
+.footer-icon:hover {
+  color: red;
+}

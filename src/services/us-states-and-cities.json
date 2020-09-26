@@ -1,0 +1,199 @@
+{
+  "New York": ["New York", "Buffalo", "Rochester", "Syracuse", "Albany"],
+  "California": [
+    "Los Angeles",
+    "San Diego",
+    "San Jose",
+    "San Francisco",
+    "Fresno",
+    "Sacramento",
+    "Long Beach",
+    "Oakland"
+  ],
+  "Illinois": ["Chicago", "Springfield", "Rockford", "Naperville"],
+  "Texas": [
+    "Houston",
+    "San Antonio",
+    "Dallas",
+    "Austin",
+    "Fort Worth",
+    "El Paso"
+  ],
+  "Pennsylvania": ["Philadelphia", "Pittsburgh", "Allentown", "Erie"],
+  "Arizona": [
+    "Phoenix",
+    "Tucson",
+    "Mesa",
+    "Glendale",
+    "Scottsdale",
+    "Flagstaff"
+  ],
+  "Florida": [
+    "Jacksonville",
+    "Miami",
+    "Tampa",
+    "Orlando",
+    "Tallahassee",
+    "Fort Lauderdale",
+    "West Palm Beach",
+    "Daytona Beach"
+  ],
+  "Indiana": ["Indianapolis", "Fort Wayne", "Evansville"],
+  "Ohio": ["Columbus", "Cleveland", "Cincinnati", "Toledo", "Akron", "Dayton"],
+  "North Carolina": ["Charlotte", "Raleigh", "Greensboro", "Durham"],
+  "Michigan": [
+    "Detroit",
+    "Grand Rapids",
+    "Warren",
+    "Sterling Heights",
+    "Ann Arbor",
+    "Lansing",
+    "Flint",
+    "Kalamazoo"
+  ],
+  "Tennessee": [
+    "Memphis",
+    "Nashville-Davidson",
+    "Knoxville",
+    "Chattanooga",
+    "Clarksville"
+  ],
+  "Massachusetts": [
+    "Boston",
+    "Worcester",
+    "Springfield",
+    "Lowell",
+    "Cambridge"
+  ],
+  "Washington": ["Seattle", "Spokane", "Tacoma", "Vancouver", "Bellevue"],
+  "Colorado": [
+    "Denver",
+    "Colorado Springs",
+    "Aurora",
+    "Fort Collins",
+    "Lakewood"
+  ],
+  "District of Columbia": ["Washington"],
+  "Maryland": ["Baltimore", "Frederick", "Rockville", "Gaithersburg"],
+  "Kentucky": [
+    "Louisville/Jefferson County",
+    "Lexington-Fayette",
+    "Bowling Green",
+    "Owensboro",
+    "Covington"
+  ],
+  "Oregon": ["Portland", "Eugene", "Salem", "Gresham", "Hillsboro", "Medford"],
+  "Oklahoma": [
+    "Oklahoma City",
+    "Tulsa",
+    "Norman",
+    "Broken Arrow",
+    "Lawton",
+    "Edmond"
+  ],
+  "Wisconsin": ["Milwaukee", "Madison", "Green Bay", "Kenosha"],
+  "Nevada": ["Las Vegas", "Reno", "Carson City"],
+  "New Mexico": [
+    "Albuquerque",
+    "Las Cruces",
+    "Rio Rancho",
+    "Santa Fe",
+    "Roswell",
+    "Farmington",
+    "Clovis"
+  ],
+  "Missouri": [
+    "Kansas City",
+    "St. Louis",
+    "Springfield",
+    "Independence",
+    "Columbia"
+  ],
+  "Virginia": [
+    "Virginia Beach",
+    "Norfolk",
+    "Chesapeake",
+    "Richmond",
+    "Newport News"
+  ],
+  "Georgia": ["Atlanta", "Columbus", "Augusta-Richmond County", "Savannah"],
+  "Nebraska": ["Omaha", "Lincoln", "Bellevue", "Grand Island"],
+  "Minnesota": [
+    "Minneapolis",
+    "St. Paul",
+    "Rochester",
+    "Duluth",
+    "Bloomington",
+    "Plymouth"
+  ],
+  "Kansas": ["Wichita", "Overland Park", "Kansas City", "Topeka"],
+  "Louisiana": [
+    "New Orleans",
+    "Baton Rouge",
+    "Shreveport",
+    "Lafayette",
+    "Lake Charles"
+  ],
+  "Hawaii": ["Honolulu"],
+  "Alaska": ["Anchorage"],
+  "New Jersey": ["Newark", "Jersey City", "Paterson", "Elizabeth", "Clifton"],
+  "Idaho": [
+    "Boise City",
+    "Nampa",
+    "Meridian",
+    "Idaho Falls",
+    "Pocatello",
+    "Caldwell",
+    "Coeur d'Alene",
+    "Twin Falls"
+  ],
+  "Alabama": ["Birmingham", "Montgomery", "Mobile", "Huntsville"],
+  "Iowa": [
+    "Des Moines",
+    "Cedar Rapids",
+    "Davenport",
+    "Sioux City",
+    "Iowa City"
+  ],
+  "Arkansas": ["Little Rock", "Fort Smith", "Fayetteville", "Springdale"],
+  "Utah": [
+    "Salt Lake City",
+    "West Valley City",
+    "Provo",
+    "West Jordan",
+    "Orem"
+  ],
+  "Rhode Island": ["Providence", "Warwick", "Cranston", "Pawtucket"],
+  "Mississippi": [
+    "Jackson",
+    "Gulfport",
+    "Southaven",
+    "Hattiesburg",
+    "Biloxi",
+    "Meridian"
+  ],
+  "South Dakota": ["Sioux Falls", "Rapid City"],
+  "Connecticut": [
+    "Bridgeport",
+    "New Haven",
+    "Stamford",
+    "Hartford",
+    "Waterbury"
+  ],
+  "South Carolina": [
+    "Columbia",
+    "Charleston",
+    "North Charleston",
+    "Mount Pleasant",
+    "Rock Hill",
+    "Greenville"
+  ],
+  "New Hampshire": ["Manchester", "Nashua", "Concord"],
+  "North Dakota": ["Fargo", "Bismarck", "Grand Forks", "Minot"],
+  "Montana": ["Billings", "Missoula", "Great Falls", "Bozeman"],
+  "Delaware": ["Wilmington", "Dover"],
+  "Maine": ["Portland"],
+  "Wyoming": ["Cheyenne", "Casper"],
+  "West Virginia": ["Charleston", "Huntington"],
+  "Vermont": ["Burlington"]
+}

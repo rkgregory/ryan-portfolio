@@ -1,0 +1,107 @@
+.clothing-card:hover {
+  cursor: pointer;
+}
+
+.card-title {
+  /* font-weight: bold;
+  font-size: smaller; */
+}
+.card-title {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 1vh;
+  text-align: center;
+  font-size: smaller;
+
+  /* font-family: "Cardo", sans-serif; */
+}
+
+/* .card-publisher {
+  font-weight: bold;
+  padding-left: 3vh;
+  font-size: medium;
+} */
+
+.card-date {
+  padding-left: 3vh;
+  font-size: small;
+}
+
+@media only screen and (min-width: 600px) {
+  .card-title {
+    font-size: medium;
+  }
+  .card-publisher {
+    font-size: small;
+  }
+  .card-date {
+    font-size: x-small;
+  }
+}
+
+.clothing-card {
+  color: #e1e1e1;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background-color: #1e1e1e;
+  /* padding: 1; */
+  border-radius: 15px;
+  text-align: left;
+}
+
+.hide-img {
+  display: none;
+}
+
+.card-img-frame {
+  padding-left: 1vh;
+  padding-right: 1vh;
+  padding-top: 1vh;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.card-img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  /* margin-bottom: 1vh; */
+}
+
+.card-price {
+  /* padding-left: 5%; */
+  /* text-align: right; */
+  color: #9e9e9e;
+  display: inline-block;
+
+  /* margin-left: 20%; */
+  /* margin-right: 20%; */
+}
+
+.card-size {
+  /* display: inline-block; */
+
+  /* margin-left: 20%; */
+  /* margin-right: 20%; */
+
+  /* text-align: left; */
+}
+
+.card-details {
+  text-align: center;
+  /* margin: auto; */
+}
+
+.card-text {
+  font-size: small;
+  text-align: left;
+}
+
+.clothing-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+.clothing-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}

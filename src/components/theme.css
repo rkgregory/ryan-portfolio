@@ -1,0 +1,30 @@
+.dark-card-bg-color {
+  background-color: #1e1e1e;
+}
+
+.dark-font-color {
+  color: #e1e1e1 !important;
+}
+
+.dark-font-color-hover {
+  color: #e1e1e1 !important;
+}
+.dark-font-color-hover:hover {
+  color: #e9e9e9 !important;
+}
+
+.na-blue-font {
+  color: #90caf9;
+}
+
+.av-blue-font {
+  color: #94c1e8;
+}
+
+.av-blue-bg-color {
+  background-color: #94c1e8;
+}
+.center-text {
+  text-align: center;
+  align-items: center;
+}

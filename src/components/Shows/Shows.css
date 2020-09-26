@@ -1,0 +1,117 @@
+.shows-img-container {
+  position: fixed;
+  z-index: -1;
+  height: 110%;
+  min-width: 100%;
+  overflow: hidden;
+  top: -0px;
+  left: -400px;
+}
+
+.shows-container {
+  position: relative;
+  min-height: 100vh;
+  text-align: center;
+  margin-top: 6vh;
+}
+
+.content-wrapper {
+  padding-top: 50px;
+  padding-bottom: 5vh;
+}
+
+.center-image {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 30%;
+}
+
+.shows-header {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  letter-spacing: 1px;
+  font-size: 2.4rem;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.shows-location {
+  color: white;
+  position: relative;
+  top: 6vh;
+  font-size: 1.9rem;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.shows-info {
+  color: white;
+  position: relative;
+  top: 7vh;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.shows-card {
+  margin-bottom: 40px;
+}
+
+.shows-btn:hover {
+  color: white;
+  background-color: black;
+  border: solid white 1px;
+  text-decoration: none;
+  box-shadow: 3px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.shows-btn-container {
+  height: 100%;
+  display: flex;
+  position: relative;
+}
+
+.shows-btn {
+  text-decoration: none !important;
+  position: relative;
+  width: 30%;
+  display: flex;
+  top: 8vh;
+  margin: auto;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 15px;
+  color: black;
+  background: white;
+  justify-content: center;
+  text-decoration: none;
+  border: none;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+@media only screen and (min-width: 600px) {
+  .center-image {
+    width: 20%;
+  }
+
+  .shows-header {
+    font-size: 3.5rem;
+  }
+  .shows-img-container {
+    position: fixed;
+    z-index: -1;
+    height: 100vh;
+    /* min-width: 100%; */
+    left: 0px;
+    overflow: hidden;
+  }
+  .shows-list {
+    margin-top: 4vh;
+  }
+}

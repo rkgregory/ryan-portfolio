@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0",
+    "title": "Unfamiliar Hazes",
+    "artist": "Ghrins",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/1-Ghrins_Unfamiliar-Hazes-min.jpg",
+    "mediaLink": "https://open.spotify.com/album/3hLWuvyL5OrXMgRYSClJwA?si=y-O9ofSPSGO75FTHNDa19Q",
+    "role": "ps"
+  },
+  {
+    "id": "1",
+    "title": "A Bad Dream (King Yosef Remix)",
+    "artist": "From Indian Lakes",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/2-From-Indian-Lakes_A-Bad-Dream-King-Yosef-Remix.JPG",
+    "mediaLink": "https://open.spotify.com/album/4asnDsA8BjW3fnVc233JZf?si=zCxPgnMbQgKIyKm8qMQbpA",
+    "role": "p"
+  },
+  {
+    "id": "2",
+    "title": "Creature",
+    "artist": "VTB",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/3-VTB_Creature.JPG",
+    "mediaLink": "https://open.spotify.com/album/7KdE4n22uQ6DhYrWnB1ZPQ?si=TOWRK04pTmCPuY6GiwV41Q",
+    "role": "e"
+  },
+  {
+    "id": "3",
+    "title": "Dirtbike",
+    "artist": "Zheani",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/4-Zheani_Dirtbike.JPG",
+    "mediaLink": "https://open.spotify.com/album/3BEy9GgSRN4UpEVrxht9Gs?si=4f4hLG4bSzW5aHQa0H3J5g",
+    "role": "p"
+  },
+  {
+    "id": "4",
+    "title": "A Field In Holland",
+    "artist": "Fifty Grand",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/5-Fifty-Grand_A-Field-In-Holland.JPG",
+    "mediaLink": "https://open.spotify.com/track/3xpznQeqSzKGGYPHfYWNno?si=hWRVmREJSLeQK_PEoMsD9A",
+    "role": "p"
+  },
+  {
+    "id": "5",
+    "title": "Bloodoath (King Yosef Remix)",
+    "artist": "Alice Glass",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/6-Alice-Glass_Bloodoath-King-Yosef-Remix.JPG",
+    "mediaLink": "https://open.spotify.com/track/1rhqR7gaZuWTDDDiadANB9?si=UdOkKLLDSGSn9AD5qJnZZQ",
+    "role": "p"
+  },
+  {
+    "id": "6",
+    "title": "Billy and Mandy Prod. King Yosef",
+    "artist": "Ski Mask The Slump God",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/7-Ski-Mask-The-Slump-God_Billy-And-Mandy-Prod-King-Yosef.JPG",
+    "mediaLink": "https://soundcloud.com/rickybobby-slumpgod/billymandy-prodking-yosef?in=rickybobby-slumpgod/sets/drown-in-designer",
+    "role": "p"
+  },
+  {
+    "id": "7",
+    "title": "King",
+    "artist": "XXXTentacion",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/8-XXXTentacion_King.png",
+    "mediaLink": "https://open.spotify.com/track/1Wh5LO3TWAvaeDrwp4FZgo?si=vilXTdmvStuNaWj0hufJow",
+    "role": "pe"
+  },
+  {
+    "id": "8",
+    "title": "The Line",
+    "artist": "Zheani",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/9-Zheani_The-Line.jpg",
+    "mediaLink": "https://open.spotify.com/album/6Frd0yt2OfO0UmXI6ZWheC?si=yTbWf1NESmqVLSuph5PXsw",
+    "role": "p"
+  },
+  {
+    "id": "9",
+    "title": "Satanic Prostitute EP",
+    "artist": "Zheani",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/10-Zheani_Satanic-Prostitute-EP.jpg",
+    "mediaLink": "https://open.spotify.com/album/2TMYYBmujvJxilbJuV4jbm?si=Jd_SGbJ1QAK6MSbawJ8V7A",
+    "role": "p"
+  },
+  {
+    "id": "10",
+    "title": "Punishment Suite",
+    "artist": "Punishment Suite",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/11-Punishment-Suite.JPG",
+    "mediaLink": "https://open.spotify.com/album/6mt1nlUgQ5aqV177DLuvfc?si=IUYHBBWOSoitOOd89DhUrw",
+    "role": "pse"
+  },
+  {
+    "id": "11",
+    "title": "Memory",
+    "artist": "badXchannels",
+    "imageLink": "https://photo-hosting-bucket.s3-us-west-1.amazonaws.com/king-yosef/about/12-badxchannels_memory.jpg",
+    "mediaLink": "https://open.spotify.com/album/3nJLyJFJlDWLdjrOG4SyWe?si=TNxDC3DNTx2iETm6SBYg3Q",
+    "role": "e"
+  }
+]
